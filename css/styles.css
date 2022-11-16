@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  ;
+}
+
+h1 {
+  margin-top: 0;
+  color: #251B37;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  margin-top: 0;
+  color: #251B37;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  margin-top: 0;
+  color: #0E5E6F;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EFF5F5;
+  border-width: 10px;
+  height: 0;
+  width: 22%;
+}
+
+.top-container {
+  background-color: #EEF1FF;
+  position: relative;
+  padding-top: 150px;
+}
+
+.midlle-container {
+  background-color: #F7F7F7;
+  width: 70%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #F7F7F7;
+  width: 80%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 290px;
+  right: 250px;
+}
+
+.midlle-cloud {
+  position: absolute;
+  top: 370px;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 520px;
+  left: 610px;
+}
+
+.nerd {
+  position: relative;
+  height: 4%;
+  width: 4%;
+  left: 50%;
+}
+
+.profile-image {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 17%;
+  height: 17%;
+}
+
+.profile {
+  line-height: 2;
+  width: 70%;
+  margin: auto;
+}
+
+.education {
+  width: 70%;
+  margin: auto;
+}
+
+.skills {
+  width: 70%;
+  margin: auto;
+}
+
+.experience {
+  width: 70%;
+  margin: auto;
+}
+
+.work-row {
+  line-height: 2
+}
+
+.skill-row {
+  line-height: 2
+}
+
+.education-row {
+  line-height: 2
+}
+
+.code {
+  width: 6.5%;
+  height: 6.5%;
+}
+
+.sailing {
+  width: 5%;
+  height: 5%;
+}
+
+.work {
+  width: 5%;
+  height: 5%;
+}
